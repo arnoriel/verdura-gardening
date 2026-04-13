@@ -130,7 +130,7 @@ const plants: Plant[] = [
     name: 'Bird of Paradise',
     latin: 'Strelitzia reginae',
     price: 89,
-    img: 'https://images.unsplash.com/photo-1604762512526-b7fc76bf41f5?w=600&auto=format&fit=crop&q=80',
+    img: 'https://media.istockphoto.com/id/2223225679/photo/flowering-strelizia-bird-of-paradise-plant.jpg?s=612x612&w=0&k=20&c=EOvd6D6Z5cYQTtSbgPMxPWb81dnmOWF5hKmYnrAs9u8=',
     tag: 'Exotic',
     rating: 4.8,
   },
